@@ -1,0 +1,2 @@
+# EfficientDet_DOTA
+基于EfficientDet的旋转框目标检测
